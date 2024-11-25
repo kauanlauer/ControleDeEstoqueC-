@@ -1,0 +1,10 @@
+C:\Users\Kauan Lauer\source\repos\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe.config
+C:\Users\Kauan Lauer\source\repos\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.exe
+C:\Users\Kauan Lauer\source\repos\ControleDeEstoque\ControleDeEstoque\bin\Debug\ControleDeEstoque.pdb
+C:\Users\Kauan Lauer\source\repos\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.csproj.AssemblyReference.cache
+C:\Users\Kauan Lauer\source\repos\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.Form1.resources
+C:\Users\Kauan Lauer\source\repos\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.Properties.Resources.resources
+C:\Users\Kauan Lauer\source\repos\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.csproj.GenerateResource.cache
+C:\Users\Kauan Lauer\source\repos\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Kauan Lauer\source\repos\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.exe
+C:\Users\Kauan Lauer\source\repos\ControleDeEstoque\ControleDeEstoque\obj\Debug\ControleDeEstoque.pdb
